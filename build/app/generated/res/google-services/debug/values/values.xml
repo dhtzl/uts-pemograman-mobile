@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">308205718623-o3mebs1llmfbpdc9h5crs8rcikamj3k5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">308205718623</string>
+    <string name="google_api_key" translatable="false">AIzaSyDLBLPAOciovLxUx9SegE_rCWkpR2hKtgo</string>
+    <string name="google_app_id" translatable="false">1:308205718623:android:00bfc371aaa70d1f249fea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDLBLPAOciovLxUx9SegE_rCWkpR2hKtgo</string>
+    <string name="google_storage_bucket" translatable="false">uts-pemob-dannn.appspot.com</string>
+    <string name="project_id" translatable="false">uts-pemob-dannn</string>
+</resources>
